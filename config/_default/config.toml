@@ -1,5 +1,5 @@
 ####### Base Config #######
-  baseURL = "https://im.youronly.one/faithfulathlete"
+  baseURL = "https://im.youronly.one/faithfulathlete/"
   title = "Faithful Athlete"
   copyright = ""                                          # we are using our own footer
   timeZone = "Asia/Manila"
