@@ -1,0 +1,5 @@
+images = ["https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"]
+  [_target]
+    kind = "page"
+    #lang = ""
+    #path = "/blog/**"

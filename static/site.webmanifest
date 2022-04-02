@@ -1,0 +1,23 @@
+{
+  "name": "Faithful Athlete",
+  "short_name": "Athlete",
+  "description": "Fitness, Health, and Sports",
+  "dir": "auto",
+  "lang": "en-PH",
+  "categories": ["fitness", "health", "lifestyle", "sports"],
+  "display": "minimal-ui",
+  "scope": "https://https://im.youronly.one/yuki/channels/faithful-athlete/",
+  "start_url": "https://im.youronly.one/faithfulathlete/",
+  "icons": [
+    {
+      "src": "https://rsc.YourOnly.One/favicon/faithfulathlete/android-chrome-192x192.png?fmgy=TimmirIsMyInspiration",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://rsc.YourOnly.One/favicon/faithfulathlete/android-chrome-512x512.png?fmgy=TimmirIsMyInspiration",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
