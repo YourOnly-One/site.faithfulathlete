@@ -1,4 +1,4 @@
-module faithfulathlete
+module gitlab.com/youronlyone/site.faithfulathlete
 
 go 1.18
 
