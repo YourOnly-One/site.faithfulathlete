@@ -6,7 +6,7 @@
   "lang": "en-PH",
   "categories": ["fitness", "health", "lifestyle", "sports"],
   "display": "minimal-ui",
-  "scope": "https://https://im.youronly.one/yuki/channels/faithful-athlete/",
+  "scope": "https://im.youronly.one/faithfulathlete/",
   "start_url": "https://im.youronly.one/faithfulathlete/",
   "icons": [
     {
