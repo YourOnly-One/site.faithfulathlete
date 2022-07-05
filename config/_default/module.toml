@@ -1,7 +1,7 @@
 [hugoVersion]
   extended = true
   #max = ""
-  min = "0.97.0"
+  min = "0.101.0"
 
 [[imports]]
   disable = false                           # default: false
@@ -43,6 +43,15 @@
     #  target = "content"
     #  lang = "ko"
   # END: /faithfulathlete/ content
+
+
+[[imports]]
+  path = "gitlab.com/youronlyone/images"
+  # BGN: /faithfulathlete/ images
+    [[imports.mounts]]
+      source = "faithfulathlete"
+      target = "assets/images"
+  # END: /faithfulathlete/ images
 
 
 # See: https://gohugo.io/hugo-modules/configuration/#module-config-mounts
