@@ -1,9 +1,10 @@
 {{- $androidchrome192png := resources.Get "favicon/android-chrome-192x192.png" | resources.Fingerprint "sha384" -}}
 {{- $androidchrome512png := resources.Get "favicon/android-chrome-512x512.png" | resources.Fingerprint "sha384" -}}
 {
-  "name": "Faithful Athlete",
-  "short_name": "Athlete",
-  "description": "Fitness, Health, and Sports",
+  "name": "Faithful Athlete 🎽",
+  "short_name": "Athlete 🎽",
+  "description": "Faithful Athlete 🎽 by ᜌᜓᜃᜒ (Yuki ・ 雪亮) / Yahuhanan Yukia Sese Cuneta.",
+  "id": "/faithfulathlete/",
   "dir": "auto",
   "lang": "en-PH",
   "categories": ["fitness", "health", "lifestyle", "sports"],
