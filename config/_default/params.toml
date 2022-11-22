@@ -17,7 +17,7 @@ favicon_mstilecolor = "#603cba"
 
 ### BGN: Theme Settings ###
   message = ""
-  hideAutoMenu = true
+  hideAutoMenu = false
 
   # Pagination options
   paginate = 12
