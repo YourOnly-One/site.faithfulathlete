@@ -30,19 +30,19 @@ workspace = "off"
   path = "codeberg.org/youronlyone/content"
   # BGN: /faithfulathlete/ content
     #[[imports.mounts]]
-    #  source = "faithfulathlete/en-ph"
+    #  source = "content/faithfulathlete/en-ph"
     #  target = "content"
     #  lang = "en"
     [[imports.mounts]]
-      source = "faithfulathlete/en-ph"
+      source = "content/faithfulathlete/en-ph"
       target = "content"
       lang = "en-ph"
     #[[imports.mounts]]
-    #  source = "faithfulathlete/ja"
+    #  source = "content/faithfulathlete/ja"
     #  target = "content"
     #  lang = "ja"
     #[[imports.mounts]]
-    #  source = "faithfulathlete/ko"
+    #  source = "content/faithfulathlete/ko"
     #  target = "content"
     #  lang = "ko"
   # END: /faithfulathlete/ content
