@@ -5,7 +5,7 @@ favicon_mstilecolor = "#603cba"
 
 ### BGN: Structured Data ###
   description = "Faithful Athlete 🎽 by ᜌᜓᜃᜒ (Yuki ・ 雪亮) / Yahuhanan Yukiya Sese Cuneta."
-  keywords = ["Faithful Athlete", "Faithful Atleta", "忠実なアスリート", "충실한 운동선수", "충실한 운동 선수", "YourOnlyOne", "YourOnly.One", "Yahuhanan Yukiya Sese Cuneta", "Yuki", "YoHan", "Yo-Han", "ᜌᜓᜃᜒ", "사요한", "謝雪矢（ゆきや）", "스노", "Seu-No", "SeuNo", "Snow", "Yohanan", "ᜌᜓᜑᜈᜈ᜔", "ᜌᜓᜑᜈᜈ᜕", "ᜌᜑᜓᜑᜈᜈ᜔", "ᜌᜑᜓᜑᜈᜈ᜕"] # Can be overriden per page
+  keywords = ["Faithful Athlete", "Faithful Atleta", "忠実なアスリート", "충실한 운동선수", "충실한 운동 선수", "YourOnlyOne", "YourOnly.One", "Yahuhanan Yukiya Sese Cuneta", "Yuki", "YoHan", "Yo-Han",  "יהוחנן", "ᜌᜓᜃᜒ", "사요한", "謝雪矢（ゆきや）", "스노", "Seu-No", "SeuNo", "Snow", "Yohanan", "ᜌᜓᜑᜈᜈ᜔", "ᜌᜓᜑᜈᜈ᜕", "ᜌᜑᜓᜑᜈᜈ᜔", "ᜌᜑᜓᜑᜈᜈ᜕"] # Can be overriden per page
   images = ["https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"]
 ### END: Structured Data ###
 
