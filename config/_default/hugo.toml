@@ -2,7 +2,7 @@
 
 ####### BASE CONFIG #######
   baseURL = "https://im.youronly.one/faithfulathlete/"                                              # .Site.BaseURL
-  title = "Faithful Athlete 🎽"                                                # .Site.Title; IMPT for Schema.org; OpenGraph; Twitter Cards; RDFa, Microdata, JSON-LD
+  title = "Faithful Athlete"                                                # .Site.Title; IMPT for Schema.org; OpenGraph; Twitter Cards; RDFa, Microdata, JSON-LD
   copyright = ""                                            # .Site.Copyright; leave empty to override theme
   timeZone = "Etc/UTC"
 
